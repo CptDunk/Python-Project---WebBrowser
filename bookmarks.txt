@@ -1,0 +1,5 @@
+google::https://www.google.com
+yahoo!::https://www.yahoo.com
+bing::https://www.bing.com
+check it::https://j.gifs.com/rRkznp.gif
+good stuff::https://www.youtube.com/watch?v=Zjo4xATTrfk
