@@ -21,5 +21,8 @@ I have noticed some "glitches" while working with the browser, but i have not ye
 - Add support for multiple tabs
 - Add browsing history
 - Add Themes(dark, light, custom background, etc.)
-
+</br>
+</br>
+</br>
+this readme was brought to you by my colleague, because i ripped off most of his syntax
 
