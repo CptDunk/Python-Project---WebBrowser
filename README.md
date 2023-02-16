@@ -1,5 +1,5 @@
 # Python-Project WebBrowser
-Simple Web Browser application with the ability to save custom bookmarks to a .txt file
+Simple Web Browser application with the ability to save custom bookmarks to a .txt file</br>
 App and requirements are made for Python 3.10.9
 
 # Installation
